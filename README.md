@@ -49,6 +49,8 @@ To **monitor and analyze evolving public opinion** on the ethical implications o
 ☁️ **Word Clouds** – Highlight dominant terms in discussions  
 📉 **Stacked Bar Charts** – Sentiment breakdown by year and platform  
 📌 **Interactive Power BI Dashboard** – Dynamic exploration of trends  
+![Interactive Power BI Dashboard](images/Power Bi Dashboard.png)
+
 📎 **Pie Charts & Area Graphs** – Year-over-year sentiment ratios
 
 ---
